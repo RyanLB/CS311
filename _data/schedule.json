@@ -1,0 +1,26 @@
+{
+  "weeks": [
+    {
+      "tuesday": {
+        "date": "03/29",
+        "topic": "Introduction, Review, Languages",
+        "assignments": "HW 1 Assigned"
+      },
+      "thursday": {
+        "date": "03/31",
+        "topic": "DFAs and Regular Languages"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "04/05",
+        "topic": "NFAs. Closure Properties of Regular Languages",
+        "assignments": "HW 1 Due"
+      },
+      "thursday": {
+        "date": "04/28",
+        "topic": "Regular Expressions. Limits of Regular Languages"
+      }
+    }
+  ]
+}
