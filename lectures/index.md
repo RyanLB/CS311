@@ -7,6 +7,6 @@ layout: default
 
 {% for file in site.static_files %}
 {% if file.path contains "/lectures/" %}
-[{{ file.path | remove_first:"/lectures/" }}]({{ file.path | uri_escape }})
+[{{ file.path | remove_first:"/lectures/" }}]({{ site.github.url }}{{ file.path | uri_encode }})
 {% endif %}
 {% endfor %}
