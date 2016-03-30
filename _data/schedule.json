@@ -3,23 +3,23 @@
     {
       "tuesday": {
         "date": "03/29",
-        "topic": "Introduction, Review, Languages",
-        "assignments": "HW 1 Assigned"
+        "topic": "Introduction, Review, Languages"
       },
       "thursday": {
         "date": "03/31",
-        "topic": "DFAs and Regular Languages"
+        "topic": "DFAs and Regular Languages",
+        "assignments": "HW 0 Assigned"
       }
     },
     {
       "tuesday": {
         "date": "04/05",
-        "topic": "NFAs. Closure Properties of Regular Languages",
-        "assignments": "HW 1 Due"
+        "topic": "NFAs. Closure Properties of Regular Languages"
       },
       "thursday": {
         "date": "04/28",
-        "topic": "Regular Expressions. Limits of Regular Languages"
+        "topic": "Regular Expressions. Limits of Regular Languages",
+        "assignments": "HW 0 Due. HW 1 Assigned"
       }
     }
   ]
