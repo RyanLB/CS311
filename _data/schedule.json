@@ -3,11 +3,13 @@
     {
       "tuesday": {
         "date": "03/29",
-        "topic": "Introduction, Review, Languages"
+        "topic": "Introduction, Review, Languages",
+        "readings": "Chapter 0"
       },
       "thursday": {
         "date": "03/31",
         "topic": "DFAs and Regular Languages",
+        "readings": "Section 1.1, 1.2",
         "assignments": "HW 0 Assigned"
       }
     },
@@ -19,6 +21,7 @@
       "thursday": {
         "date": "04/28",
         "topic": "Regular Expressions. Limits of Regular Languages",
+        "readings": "Section 1.3, 1.4",
         "assignments": "HW 0 Due. HW 1 Assigned"
       }
     }
