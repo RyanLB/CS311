@@ -20,9 +20,20 @@
       },
       "thursday": {
         "date": "04/07",
-        "topic": "Regular Expressions. Limits of Regular Languages",
-        "readings": "Section 1.3, 1.4",
+        "topic": "Regular Expressions",
+        "readings": "Section 1.3",
         "assignments": "HW 0 Due. HW 1 Assigned"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "04/12",
+        "topic": "Nonregular Languages and the Pumping Lemma",
+        "readings": "Section 1.4"
+      },
+      "thursday": {
+        "date": "04/14",
+        "topic": "Context-Free Languages"
       }
     }
   ]
