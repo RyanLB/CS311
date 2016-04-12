@@ -33,7 +33,20 @@
       },
       "thursday": {
         "date": "04/14",
-        "topic": "Context-Free Languages"
+        "topic": "Context-Free Languages",
+        "readings": "Sections 2.1 and 2.2"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "04/19",
+        "topic": "Closure Properties of CFLs. Chomsky Normal Form",
+        "assignments": "HW 1 Due"
+      },
+      "thursday": {
+        "date": "04/21",
+        "topic": "Non-Context-Free Languages",
+        "readings": "Section 2.3"
       }
     }
   ]
