@@ -41,12 +41,23 @@
       "tuesday": {
         "date": "04/19",
         "topic": "Closure Properties of CFLs. Chomsky Normal Form",
-        "assignments": "HW 1 Due"
+        "assignments": "HW 1 Due. HW 2 Assigned"
       },
       "thursday": {
         "date": "04/21",
         "topic": "Non-Context-Free Languages",
         "readings": "Section 2.3"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "04/26",
+        "topic": "Midterm Review"
+      },
+      "thursday": {
+        "date": "04/28",
+        "topic": "Midterm",
+        "assignments": "HW 2 Due"
       }
     }
   ]
