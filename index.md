@@ -4,6 +4,13 @@ tagline: "Computational Structures"
 layout: default
 ---
 
+### Practice Midterm Available
+
+If you're looking for an example of the sorts of questions you can expect on Thursday's midterm, a
+short practice test is available [here]({{ site.github.url }}{{ "Practice Midterm.pdf" | uri_encode}}).
+
+Solutions should be uploaded tonight or tomorrow.
+
 ### Lecture 07 Notes Updated
 
 In the original version, the proof that 0<sup>n</sup>1<sup>n</sup>0<sup>n</sup> was not context-free was missing a case. This has
