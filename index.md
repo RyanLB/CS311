@@ -7,7 +7,7 @@ layout: default
 ### Practice Midterm Available
 
 If you're looking for an example of the sorts of questions you can expect on Thursday's midterm, a
-short practice test is available [here]({{ site.github.url }}{{ "Practice Midterm.pdf" | uri_encode}}).
+short practice test is available [here]({{ site.github.url }}{{ "/Practice Midterm.pdf" | uri_encode}}).
 
 Solutions should be uploaded tonight or tomorrow.
 
