@@ -59,6 +59,25 @@
         "topic": "Midterm",
         "assignments": "HW 2 Due"
       }
+    },
+    {
+      "tuesday": {
+        "date": "05/03",
+        "topic": "Turing Machines",
+        "readings": "Section 3.1"
+      },
+      "thursday": {
+        "date": "05/05",
+        "topic": "Turing Machine Variants",
+        "readings": "Section 3.2"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "05/10",
+        "topic": "Encodings of Other Objects",
+        "readings": "Section 3.3"
+      }
     }
   ]
 }
