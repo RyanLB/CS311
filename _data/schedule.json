@@ -76,7 +76,20 @@
       "tuesday": {
         "date": "05/10",
         "topic": "Encodings of Other Objects",
-        "readings": "Section 3.3"
+        "readings": "Section 3.3, Section 4.1",
+        "assignments": "HW 3 Assigned"
+      },
+      "thursday": {
+        "date": "05/12",
+        "topic": "Undecidable Problems",
+        "readings": "Section 4.2"
+      }
+    },
+    {
+      "tuesday": {
+        "date": "05/17",
+        "topic": "Mapping Reductions",
+        "readings": "Section 5.1, Section 5.3"
       }
     }
   ]
