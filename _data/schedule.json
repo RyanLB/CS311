@@ -88,28 +88,27 @@
     {
       "tuesday": {
         "date": "05/17",
-        "topic": "Mapping Reductions",
+        "topic": "Mapping Reductions and Rice's Theorem",
         "readings": "Section 5.1, Section 5.3"
       }
     },
     {
       "thursday": {
         "date": "05/19",
-        "topic": "More mapping reductions. Rice's Theorem",
-        "assignments": "HW 3 Due"
+        "topic": "Introduction to Complexity Theory. Time Complexity. Asymptotic Notation.",
+        "assignments": "HW 3 Due",
+        "readings": "Sections 7.1-7.3"
       }
     },
     {
       "tuesday": {
         "date": "05/24",
-        "topic": "Introduction to Complexity Theory. Time Complexity. Asymptotic Notation.",
-        "readings": "Sections 7.1-7.3"
+        "topic": "Complexity Classes",
+        "readings": "Section 7.4"
       },
       {
         "thursday": {
           "date": "05/26",
-          "topic": "NP-Completeness.",
-          "readings": "Section 7.4"
         }
       }
     },
