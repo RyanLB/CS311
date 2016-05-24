@@ -109,17 +109,19 @@
       {
         "thursday": {
           "date": "05/26",
+          "topic": "NP-Complete Problems"
         }
       }
     },
     {
       "tuesday": {
         "date": "05/31",
-        "assignments": "HW 4 Due"
+        "topic": "TBD"
       },
       "thursday": {
         "date": "06/02",
-        "topic": "Final exam review"
+        "topic": "Final exam review",
+        "assignments": "HW 4 Due"
       }
     }
   ]
