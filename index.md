@@ -4,6 +4,14 @@ tagline: "Computational Structures"
 layout: default
 ---
 
+### Course Objectives Available
+
+If you're wondering what to expect on the final, consider looking at this class's [course objectives]({{ site.github.url }}{{ "/Computer Science 311 Course Objectives.pdf" | uri_encode }}). This document outlines what students should be able to do by the end of the term.
+
+The final exam will not be cumulative, so questions will be taken from sections 3 and 4 ("Turing Machines and Decidability" and "Time Complexity" respectively). However, some questions may require high-level knowledge of topics from the previous sections.
+
+A practice final will be following shortly, and will be given out in class on 5/31.
+
 ### Practice Midterm Available
 
 If you're looking for an example of the sorts of questions you can expect on Thursday's midterm, a
