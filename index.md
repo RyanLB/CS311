@@ -4,6 +4,13 @@ tagline: "Computational Structures"
 layout: default
 ---
 
+### Practice Final Available
+The [practice final exam]({{ site.github.url }}{{ "/Practice Final.pdf" | uri_encode }}) is now available, as are its
+[solutions]({{ site.github.url }}{{ "/Practice Final Solutions.pdf" | uri_encode }}).
+
+As previously mentioned, all proofs on the final exam will be on material covered after the midterm,
+although there may be high-level T/F questions about language classes studied earlier in the course.
+
 ### Course Objectives Available
 
 If you're wondering what to expect on the final, consider looking at this class's [course objectives]({{ site.github.url }}{{ "/Computer Science 311 Course Objectives.pdf" | uri_encode }}). This document outlines what students should be able to do by the end of the term.
